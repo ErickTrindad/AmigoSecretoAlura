@@ -33,7 +33,14 @@ function sortearAmigo() {
     alert("Adicione amigos para sortear");
   }
 
-  const indiceAmigo = Math.floor(Math.random()) * amigos.length;
+  let indiceAmigo = Math.floor(Math.random() * amigos.length);
 
   amigoSorteado.textContent = amigos[indiceAmigo];
+
+  limpaAmigos();
+}
+
+function limpaAmigos() {
+  amigos = [];
+  renderizaAmigo();
 }
