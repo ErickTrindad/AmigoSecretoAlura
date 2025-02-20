@@ -52,4 +52,4 @@ Este projeto é um desafio proposto pela **Alura** para fortalecer as habilidade
    ```
 
 Feito com 💜 por Erick Trindade como parte do desafio da Alura.
-[🔗 Visite o projeto online](https://google.com).
+[🔗 Visite o projeto online](https://ericktrindad.github.io/AmigoSecretoAlura/).
